@@ -3,10 +3,7 @@
 
 With this project, you will learn a modern definitions of health, and understand a little bit more about the impact of the environment in our health. 
 
-<img width="500" height="400" alt="Screenshot 2023-06-26 at 20 52 06" src="https://github.com/alslemos/OurHealth/assets/68721414/e9a607fc-7c59-4ac2-8915-777f50d9c13c">
-
-<img width="1000" alt="Screenshot 2023-06-26 at 20 53 23" src="https://github.com/alslemos/OurHealth/assets/68721414/f2175462-7362-488f-9c5e-b5d3ce554d87">
-
+<img width="1000" alt="Screenshot 2023-06-26 at 20 52 06" src="https://github.com/alslemos/OurHealth/assets/68721414/e9a607fc-7c59-4ac2-8915-777f50d9c13c">
 
 <img width="1000" alt="Screenshot 2023-06-26 at 20 53 47" src="https://github.com/alslemos/OurHealth/assets/68721414/113340cc-4da4-4c26-80de-811f5c9bfea5">
 
