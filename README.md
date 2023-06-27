@@ -11,8 +11,7 @@ With this project, you will learn a modern definitions of health, and understand
 
 Besides that, this project contains a jigsaw puzzle, in which you must find the missing pieces to improve the health indicators of your city!
 
-<img width="1000" alt="Screenshot 2023-06-26 at 20 54 15" src="https://github.com/alslemos/OurHealth/assets/68721414/99846b04-f0de-415f-bba9-3f39f837c6fb">
 
-<img width="1000" alt="Screenshot 2023-06-26 at 20 54 36" src="https://github.com/alslemos/OurHealth/assets/68721414/d5faad80-e7f5-4456-81c8-c52dbebb73e8">
 
-<img width="1000" alt="Screenshot 2023-06-26 at 20 55 02" src="https://github.com/alslemos/OurHealth/assets/68721414/6d055ad5-5d58-41d6-bc1e-2b96fa53478a">
+https://github.com/alslemos/OurHealth/assets/68721414/b203423e-df93-4d82-94ed-96b3ec220a6b
+
