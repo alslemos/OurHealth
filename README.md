@@ -1,5 +1,5 @@
 # OurHealth
-[Accepted] This project was design and built as an Swift Student Challenge submission for the WWDC23.
+[Accepted] This project was design and built as an Swift Student Challenge submission for  WWDC23.
 
 With this project, you will learn a modern definitions of health, and understand a little bit more about the impact of the environment in our health. 
 
