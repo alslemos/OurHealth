@@ -13,5 +13,5 @@ Besides that, this project contains a jigsaw puzzle, in which you must find the 
 
 
 
-https://github.com/alslemos/OurHealth/assets/68721414/b203423e-df93-4d82-94ed-96b3ec220a6b
+https://github.com/alslemos/OurHealth/assets/68721414/cd771564-fe48-4cd3-917b-cf9a739009c2
 
